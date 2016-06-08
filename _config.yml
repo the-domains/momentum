@@ -1,0 +1,14 @@
+layout_spectrum: 0.1923971539363265
+typography_spectrum: 0.6835122618358582
+color:
+  brandStrength: 0.5975490540731698
+  lightness: 0.7292944241780788
+  saturation: 0.3320235840510577
+  rhythmicContrast: 0.44897397118620574
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Momentum
