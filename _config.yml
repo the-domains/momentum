@@ -6,9 +6,9 @@ color:
   saturation: 0.3320235840510577
   rhythmicContrast: 0.44897397118620574
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#332532'
+    - '#644D52'
+    - '#F77A52'
+    - '#FF974F'
+    - '#A49A87'
 name: Momentum
